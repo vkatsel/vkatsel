@@ -4,7 +4,7 @@ I am a Computer Science student at Kyiv School of Economics with a strong focus 
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vkatsel&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vkatsel&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <!--[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=vkatsel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
